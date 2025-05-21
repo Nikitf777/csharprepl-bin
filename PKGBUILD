@@ -1,7 +1,7 @@
 # Maintainer: Nikita Samusev nikitf777@gmail.com
 
 pkgname=csharprepl-bin
-provides=csharprepl
+provides=(csharprepl)
 pkgver=0.6.7
 pkgrel=1
 pkgdesc="A fully featured C# REPL with syntax highlighting, reference autodetection, and more."
